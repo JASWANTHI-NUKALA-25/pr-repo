@@ -19,3 +19,7 @@ class Car extends Vehicle {
     System.out.println(myCar.brand + " " + myCar.modelName);
   }
 }
+
+Till now we have understood what Git is and how to create a Git repository. It will be great to take a quick look at the life cycle of files in a Git repository. It is important for us to have an abstract idea of the different stages of Git before going into more detailed understanding of Git. In this tutorial it is expected that you create a mental map of different stages in Git life cycle.
+
+Before proceeding with this tutorial, it'd be helpful to go through following tutorials first:
