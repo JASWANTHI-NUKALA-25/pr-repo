@@ -9,3 +9,4 @@ A6 obj = new A6();
 obj.print();  
  }  
 }  
+//added some changes
